@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("%d", 15-37);
+    printf("경고!!\a경고!!\a\n");
 
     return 0;
 }
