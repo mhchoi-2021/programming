@@ -2,11 +2,11 @@
 #define _PROBLEM_H_
 
 
-int test01_01(int a, int b);
-int test01_02(int a, int b);
-char* test01_03();
-char* test01_04();
-char* test01_05();
-int test01_06();
+int test02_01(int a, int b);
+int test02_02(int a, int b);
+char* test02_03();
+char* test02_04();
+char* test02_05();
+int test02_06();
 
 #endif
