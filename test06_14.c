@@ -32,6 +32,9 @@ int main(void)
         puts("\a배열에 해당 값이 없습니다.");
     else {
         printf("%d은(는) %d 개 있습니다.\n", ky, num);
+
+        for(i=0;i<num;i++)
+            printf("vx[%d]=%d\n",p[i], vx[pt[i]]);
     }
     return 0;
 }
